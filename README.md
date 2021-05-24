@@ -43,4 +43,4 @@ Map_name2
 Далее перезапускаем apache или nginx
 
     systemctl restart apache2
-    systemctl restart ngnix
+    systemctl restart nginx
